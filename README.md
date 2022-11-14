@@ -1,2 +1,2 @@
-# iamdaniele.github.com
+# @iamdaniele
 <a rel="me" href="https://mas.to/@iamdaniele">Mastodon</a>
